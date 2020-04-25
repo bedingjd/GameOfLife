@@ -6,7 +6,6 @@ import java.util.concurrent.TimeUnit;
 
 import javax.swing.JFrame;
 
-import Lab11S.SomeGraphics;
 
 public class GameOfLifeViewer {
 
