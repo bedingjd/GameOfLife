@@ -1,4 +1,4 @@
-package lab20200416_GameOfLife2;
+package GameOfLife;
 import java.awt.Color;
 import java.awt.Point;
 import java.util.Random;

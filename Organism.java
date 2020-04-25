@@ -1,4 +1,4 @@
-package lab20200416_GameOfLife2;
+package GameOfLife;
 
 import java.util.ArrayList;
 
