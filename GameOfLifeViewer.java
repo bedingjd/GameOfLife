@@ -49,8 +49,8 @@ public class GameOfLifeViewer {
 			
 			try {
 				TimeUnit.MILLISECONDS.sleep(TIME_DELAY_IN_MILLISECONDS);
-			} catch (InterruptedException ue) {
-				System.out.println(ue);
+			} catch (InterruptedException ie) {
+				System.out.println(ie);
 			}
 		}
 
